@@ -1,2 +1,3 @@
-﻿for x in range(1, 10, 3):
-    print(x)
+﻿colors = ["red", "white", "blue"]
+colors.insert(2, "yellow")
+print(colors)
